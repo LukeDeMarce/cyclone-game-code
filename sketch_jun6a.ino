@@ -1,7 +1,7 @@
 #include <Adafruit_CircuitPlayground.h>
 
 #define NUMPIXELS 10 // Number of NeoPixels on the CPE
-#define WIN_SCORE 11
+#define WIN_SCORE 21
 
 int targetPosition = -1; // Position of the target LED
 int currentPosition = 0; // Current position of the spinning LED
